@@ -5,11 +5,14 @@
 }
 
 body{
-    background-color: rgb(65, 217, 223);
+    background-color: rgb(6, 1, 56);
 }
 main{
-    background-color: aliceblue;
+    background-color: rgb(163, 201, 235);
     width: 500px;
     margin: auto;
-    box-shadow: 3px 3px 3px rgb(0, 0, 0);
+    box-shadow: 0px 3px rgb(0, 0, 0);
+    padding: 3px 10px;
+    border: currentColor rgb(105, 105, 107);
+    border-radius: 10px;
 }
