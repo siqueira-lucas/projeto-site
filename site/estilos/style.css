@@ -20,3 +20,14 @@ main{
     border: currentColor rgb(105, 105, 107);
     border-radius: 10px;
 }
+article p{
+    display:flex ;
+    text-align: justify;
+}
+article img{
+    margin: 0px 5px 0px 5px;
+}
+
+.html{
+    float: right;
+}
